@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Hello">Приветствуем</string>
+    <string name="EnterName">Введите имя</string>
+    <string name="HiTextView">TextView</string>
+    <string name="EnterNameField">Name</string>
+    <string name="Time">Time</string>
+    <string name="Date">Date</string>
+</resources>
